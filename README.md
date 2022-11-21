@@ -3,9 +3,9 @@
 <h3>👩💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing web applications.
-- 🎓 &nbsp; I’m currently Pursuing my Bachelor of Technology in Electronics And Communication Engineering at National Institute of Technology Silchar.
-- 💼 &nbsp; I’m looking for a Software Development Fulltime roles.
-- 🌱 &nbsp; Learning more about ReactJS and fond of problem solving.
+- 🎓 &nbsp; Bachelor of Technology in Electronics And Communication Engineering at National Institute of Technology Silchar.
+- 💼 &nbsp; Currently working as SRE @SLB.
+- 🌱 &nbsp; Learning more about DevOPS and fond of problem solving.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
