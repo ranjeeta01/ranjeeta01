@@ -14,7 +14,7 @@
   ![Python](https://img.shields.io/badge/python-v3.7-blue?style=flat&logo=Python)
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=007396)
   ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=javascript)
-  ![ServiceNow](https://img.shields.io/badge/any_text-you_like-blue)
+  ![ServiceNow](https://img.shields.io/badge/ServiceNow-blue)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
