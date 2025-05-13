@@ -1,10 +1,11 @@
 ### Hey there! I'm Ranjeeta. 
 <img width="35%" align="right" alt="Github" src = "https://static.vecteezy.com/system/resources/previews/000/229/543/non_2x/vector-young-indian-woman-as-female-developer-profession.jpg" />
 <h3>👩💻 &nbsp;About Me </h3>
+I'm a curious problem-solver who thrives at the intersection of infrastructure, automation, and engineering empathy. With a strong foundation in DevOps and cloud engineering, I specialize in building resilient systems and streamlining developer workflows. My goal is to contribute to platform engineering or site reliability roles, particularly in organizations that value innovation and scalability.
 
+- 💼 &nbsp; Currently working as Senior Production Service Engineer @ ServiceNow.
 - 🤔 &nbsp; Exploring new technologies and developing web applications.
 - 🎓 &nbsp; Bachelor of Technology in Electronics And Communication Engineering at National Institute of Technology Silchar.
-- 💼 &nbsp; Currently working as Senior Production Service Engineer @ ServiceNow.
 - 🌱 &nbsp; Learning more about DevOPS and fond of problem solving.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
